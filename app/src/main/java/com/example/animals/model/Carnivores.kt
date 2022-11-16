@@ -1,5 +1,6 @@
 package com.example.animals.model
 
+//Класс Хищники
 class Carnivores(name:String):Animal(name) {
     var lonely: Boolean = false //животное - одиночка(true), по умолчанию false
     set(value) {

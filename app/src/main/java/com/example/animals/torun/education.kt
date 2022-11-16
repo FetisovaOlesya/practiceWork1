@@ -2,6 +2,7 @@ package com.example.animals.torun
 import com.example.animals.model.Carnivores
 import com.example.animals.model.Herbivores
 
+// просто комментарий
 
 fun main(){
     val cow = Herbivores("Корова",false, 50, "трава")
